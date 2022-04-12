@@ -1,5 +1,3 @@
 hi, im soren!
 
-im a girl who is attempting to learn how to work on emulators, namely dolphin and decaf.
-
-i currently know python, and will attempt to learn c++
+i do a tad bit of coding in my spare time, mainly in python. i plan to learn c++ and work with emulation in the future. namely, decaf (for wii u) and dolphin (for wii)
